@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Air Quality MK\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-29 14:53+0000\n"
+"PO-Revision-Date: 2017-12-29 15:48+0000\n"
+"Last-Translator: faton <acker4@gmail.com>\n"
+"Language-Team: Albanian\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/core-functions.php:13
+msgid "Centar"
+msgstr "Qendër"
+
+#: includes/core-functions.php:14
+msgid "Karpos"
+msgstr "Karposh"
+
+#: includes/core-functions.php:15
+msgid "Lisice"
+msgstr "Lisiçe"
+
+#: includes/core-functions.php:16
+msgid "Gazi Baba"
+msgstr "Gazi Babë"
+
+#: includes/core-functions.php:17
+msgid "Rektorat"
+msgstr "Rektorat"
+
+#: includes/core-functions.php:18
+msgid "Miladinovci"
+msgstr "Milladinovcë"
+
+#: includes/core-functions.php:19
+msgid "Mrsevci"
+msgstr "Mrsevcë"
+
+#: includes/core-functions.php:20
+msgid "Bitola 1"
+msgstr "Manastiri 1"
+
+#: includes/core-functions.php:21
+msgid "Bitola 2"
+msgstr "Manastiri 2"
+
+#: includes/core-functions.php:22
+msgid "Kicevo"
+msgstr "Kërçovë"
+
+#: includes/core-functions.php:23
+msgid "Lazaropole"
+msgstr "Lazaropole"
+
+#: includes/core-functions.php:24
+msgid "Tetovo"
+msgstr "Tetovë"
+
+#: includes/core-functions.php:25
+msgid "Veles 1"
+msgstr "Veles 1"
+
+#: includes/core-functions.php:26
+msgid "Veles 2"
+msgstr "Veles 2"
+
+#: includes/core-functions.php:27
+msgid "Kocani"
+msgstr "Koçan"
+
+#: includes/core-functions.php:28
+msgid "Kavadarci"
+msgstr "Kavadarc"
+
+#: includes/core-functions.php:29
+msgid "Kumanovo"
+msgstr "Kumanovë"
+
+#: includes/classes.php:12
+msgid "Air Quality MK Widget"
+msgstr "Air Quality MK Widget"
+
+#: includes/classes.php:16
+msgid "Adds Air Quality widget for MK stations."
+msgstr "Shton Air Quality widget për stacionet në MK."
+
+#: includes/classes.php:56
+msgid "Station:"
+msgstr "Stacion:"
+
+#: admin/settings-register.php:13
+msgid "Customize Data Settings"
+msgstr "Personalizo cilësimet e të dhënave"
+
+#: admin/settings-register.php:18
+msgid "Station List"
+msgstr "Lista e stacioneve"
+
+#: admin/settings-register.php:22
+msgid "Custom Station List"
+msgstr "Ndrysho listën e stacioneve"
+
+#: admin/settings-register.php:27
+msgid "Parameter List"
+msgstr "Lista e Parametrave"
+
+#: admin/settings-register.php:31
+msgid "Custom Parameter List"
+msgstr "Ndrysgo listën e parametrave"
+
+#: admin/admin-menu.php:9
+msgid "Air Quality MK Settings"
+msgstr "Cilësimet e Air Quality MK"
+
+#: admin/admin-menu.php:10
+msgid "Air Quality"
+msgstr "Cilësimet e Air Quality"
+
+#: admin/settings-callback.php:9
+msgid "These settings enable you to customize Air Quality screen."
+msgstr ""
+"Këto cilësime ju mundësojnë të personalizoni ekranin e Cilësisë së Ajrit."
+
+#: public/ajax.php:14
+msgid "Loading..."
+msgstr "Duke u ngarkuar"
+
+#. Name of the plugin
+msgid "Air Quality MK"
+msgstr "Air Quality MK"
+
+#. Description of the plugin
+msgid ""
+"This plugin show air quality in Macedonia. It provide widgets and shortcodes "
+"for displaying the quality of the air."
+msgstr ""
+"Ky shtojcë tregon cilësinë e ajrit në Maqedoni. Ofron widgets dhe shortcodes "
+"për shfaqjen e cilësisë së ajrit."
+
+#. URI of the plugin
+msgid "http://wp.fa.mk/"
+msgstr "http://wp.fa.mk/"
+
+#. Author of the plugin
+msgid "Faton Mehmedi"
+msgstr "Faton Mehmedi"
